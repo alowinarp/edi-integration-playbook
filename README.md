@@ -33,7 +33,7 @@ edi-integration-playbook/
 ├── sop/             Standard operating procedures
 ├── templates/       Stage templates and checklists
 ├── how-to/          Task-level guides
-└── LICENSE
+└── LICENSE.md
 ```
 
 | Folder | Contains | Use it to |
@@ -42,7 +42,7 @@ edi-integration-playbook/
 | `templates/` | Forms and checklists that implement the SOPs, completed per change and attached to the change ticket | Produce the evidence each gate requires |
 | `how-to/` | Task-level guides for specific problems: diagnosing failures, testing maps, onboarding partners | Get a specific job done, step by step |
 
-Each folder has its own README listing its documents and how they connect. Documents are published as PDFs, versioned in the filename (for example, `_v1.0`).
+Each folder has its own README listing its documents and how they connect. SOPs are published as PDFs. Templates are editable Word and Excel files, each with a PDF preview. All documents are versioned in the filename (for example, `_v1.0`).
 
 ---
 
@@ -66,11 +66,10 @@ Spotted an error, or have an EDI failure pattern worth documenting? Open an issu
 
 ## License
 
-Documents are licensed under [CC BY 4.0](LICENSE). You may use and adapt them, including commercially, with attribution.
+Documents are licensed under [CC BY 4.0](LICENSE.md). You may use and adapt them, including commercially, with attribution.
 
 ---
 
-**Author:** Alowina Peralta — EDI/B2B integration specialist (retail supply chain, healthcare)
+**Author:** alowinarp — EDI/B2B integration specialist (retail supply chain, healthcare)
 
-Available for EDI documentation, standards, and integration work.
-[LinkedIn](https://www.linkedin.com/in/alowinaperalta)
+Available for EDI documentation, standards, and integration work. Contact via [GitHub](https://github.com/alowinarp).
