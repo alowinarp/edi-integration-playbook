@@ -32,7 +32,7 @@ edi-integration-playbook/
 ├── README.md        This overview
 ├── sop/             Standard operating procedures
 ├── templates/       Stage templates and checklists
-├── how-to/          Task-level guides
+├── howto/           Task-level guides
 └── LICENSE.md
 ```
 
@@ -40,9 +40,11 @@ edi-integration-playbook/
 |---|---|---|
 | `sop/` | Standard operating procedures: lifecycles, standards, roles, and quality gates | Set the rules your team works to |
 | `templates/` | Forms and checklists that implement the SOPs, completed per change and attached to the change ticket | Produce the evidence each gate requires |
-| `how-to/` | Task-level guides for specific problems: diagnosing failures, testing maps, onboarding partners | Get a specific job done, step by step |
+| `howto/` | Task-level guides for specific problems: diagnosing failures, testing maps, onboarding partners | Get a specific job done, step by step |
 
-Each folder has its own README listing its documents and how they connect. SOPs are published as PDFs. Templates are editable Word and Excel files, each with a PDF preview. All documents are versioned in the filename (for example, `_v1.0`).
+Each folder has its own README explaining its file naming, structure, and how its documents connect to the other folders. SOPs and how-to guides are published as PDFs. Templates are editable Excel workbooks, each with a PDF preview of a completed example.
+
+Filenames carry no version number, so links stay stable. The current version of each document is printed in its footer, and the full change history is in the repository's commit log.
 
 ---
 

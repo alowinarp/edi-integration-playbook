@@ -73,7 +73,7 @@ Each [SOP](../sop/) lists its templates under "Related templates." Each template
 
 ## Data and license
 
-All data, partner IDs, and company names are synthetic. Licensed under [CC BY 4.0](../LICENSE).
+All data, partner IDs, and company names are synthetic. Licensed under [CC BY 4.0](../LICENSE.md).
 
 ---
 
