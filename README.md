@@ -58,7 +58,7 @@ Filenames carry no version number, so links stay stable. The current version of 
 
 ## Data and confidentiality
 
-All sample files, partner IDs, company names, and scenarios are **synthetic**. No production data, real trading partner identifiers, or employer-confidential material is included.
+No production data, real trading partner identifiers, or employer-confidential material is included.
 
 ---
 

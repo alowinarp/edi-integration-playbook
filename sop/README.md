@@ -67,7 +67,7 @@ The SOP sets the rules and the gates. The [templates](../templates/) are the evi
 
 ## Data and license
 
-All data, partner IDs, and company names are synthetic. Licensed under [CC BY 4.0](../LICENSE.md).
+All data, partner IDs, and company names are sample. Licensed under [CC BY 4.0](../LICENSE.md).
 
 ---
 

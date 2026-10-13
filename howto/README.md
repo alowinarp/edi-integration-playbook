@@ -71,14 +71,14 @@ Guides stay short on purpose. Background theory belongs in a reference, not in a
 
 ## Adapting a guide
 
-- Replace the synthetic partner IDs, qualifiers, and control numbers with your own when you build an internal version.
+- Replace the sample partner IDs, qualifiers, and control numbers with your own when you build an internal version.
 - Swap tool-specific steps for the translator, platform, or monitoring tool you use. The logic of the task stays the same.
 - Replace the Need Help? section with the team that owns the task in your organization.
 - Link the guide from the SOP stage or runbook where the task happens, so people find it at the point of need.
 
 ## Data and license
 
-All data, partner IDs, and company names are synthetic. Licensed under [CC BY 4.0](../LICENSE.md).
+Licensed under [CC BY 4.0](../LICENSE.md).
 
 ---
 
